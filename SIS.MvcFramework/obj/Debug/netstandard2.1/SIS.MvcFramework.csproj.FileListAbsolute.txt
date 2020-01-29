@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SIS\SIS.MvcFramework\bin\Debug\netstandard2.1\SIS.MvcFramework.deps.json
+C:\Users\User\source\repos\SIS\SIS.MvcFramework\bin\Debug\netstandard2.1\SIS.MvcFramework.dll
+C:\Users\User\source\repos\SIS\SIS.MvcFramework\bin\Debug\netstandard2.1\SIS.MvcFramework.pdb
+C:\Users\User\source\repos\SIS\SIS.MvcFramework\bin\Debug\netstandard2.1\SIS.Http.dll
+C:\Users\User\source\repos\SIS\SIS.MvcFramework\bin\Debug\netstandard2.1\SIS.Http.pdb
+C:\Users\User\source\repos\SIS\SIS.MvcFramework\obj\Debug\netstandard2.1\SIS.MvcFramework.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SIS\SIS.MvcFramework\obj\Debug\netstandard2.1\SIS.MvcFramework.AssemblyInfo.cs
+C:\Users\User\source\repos\SIS\SIS.MvcFramework\obj\Debug\netstandard2.1\SIS.MvcFramework.csproj.CopyComplete
+C:\Users\User\source\repos\SIS\SIS.MvcFramework\obj\Debug\netstandard2.1\SIS.MvcFramework.dll
+C:\Users\User\source\repos\SIS\SIS.MvcFramework\obj\Debug\netstandard2.1\SIS.MvcFramework.pdb
+C:\Users\User\source\repos\SIS\SIS.MvcFramework\obj\Debug\netstandard2.1\SIS.MvcFramework.csprojAssemblyReference.cache

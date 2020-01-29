@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\SIS\SIS.Http\bin\Debug\netstandard2.1\SIS.Http.deps.json
+C:\Users\User\source\repos\SIS\SIS.Http\bin\Debug\netstandard2.1\SIS.Http.dll
+C:\Users\User\source\repos\SIS\SIS.Http\bin\Debug\netstandard2.1\SIS.Http.pdb
+C:\Users\User\source\repos\SIS\SIS.Http\obj\Debug\netstandard2.1\SIS.Http.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SIS\SIS.Http\obj\Debug\netstandard2.1\SIS.Http.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SIS\SIS.Http\obj\Debug\netstandard2.1\SIS.Http.AssemblyInfo.cs
+C:\Users\User\source\repos\SIS\SIS.Http\obj\Debug\netstandard2.1\SIS.Http.dll
+C:\Users\User\source\repos\SIS\SIS.Http\obj\Debug\netstandard2.1\SIS.Http.pdb
